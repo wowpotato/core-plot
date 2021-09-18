@@ -1,0 +1,1 @@
+../../CorePlot/_CPTAnimationNSDecimalPeriod.h

@@ -1,0 +1,1 @@
+../../CorePlot/_CPTAnimationPlotRangePeriod.h

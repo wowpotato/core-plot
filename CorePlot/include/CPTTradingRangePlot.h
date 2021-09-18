@@ -1,0 +1,1 @@
+../../CorePlot/CPTTradingRangePlot.h
